@@ -1,9 +1,6 @@
 # Solution-for-Saving-Student-Records
-
 You can build a solution that saves student records for an educational institution. Handling student records is no easy feat. You need to keep their name, subjects, fees, any provision of concession, and their academic progress. A DBMS-based solution will allow the client to save a lot of time and effort.
-
 Your design goal should be to have separate files for each student where the data will store information about the student. You can start by adding the following sections:
-
 Student’s Name
 Fees
 Subjects (or Stream)
